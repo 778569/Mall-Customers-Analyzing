@@ -3,11 +3,11 @@ Analyze mall customer data using clustering algorithms. This repository includes
 
 ## Context
 
-This data set is created only for the learning purpose of the customer segmentation concepts , also known as market basket analysis . I will demonstrate this by using unsupervised ML technique (KMeans Clustering Algorithm) in the simplest form.
+This data set is created only for the learning purpose of the customer segmentation concepts, also known as market basket analysis. I will demonstrate this by using the unsupervised ML technique (KMeans Clustering Algorithm) in the simplest form.
 Spending Score is something you assign to the customer based on your defined parameters like customer behavior and purchasing data.
 
 ## Problem Statement
-You own the mall and want to understand the customers like who can be easily converge [Target Customers] so that the sense can be given to marketing team and plan the strategy accordingly.
+You own the mall and want to understand the customers who can easily converge [Target Customers] so that the sense can be given to the marketing team and plan the strategy accordingly.
 
 ### About dataset
 This file contains the basic information (ID, age, gender, income, spending score) about the customers
@@ -16,3 +16,7 @@ This file contains the basic information (ID, age, gender, income, spending scor
 - Age - Age of the customer
 - Annual Income (k$) - Annual Income of the customee
 - Spending Score (1-100) - Score assigned by the mall based on customer behavior and spending nature
+
+### For What we use the database
+
+Identify the pattern of the customer.
